@@ -1,3 +1,3 @@
 #### 一键安装脚本
 
-None
+bash <(wget -qO- -o- wget -qO- -o- https://raw.githubusercontent.com/pzure/v2ray/refs/heads/main/install.sh)
